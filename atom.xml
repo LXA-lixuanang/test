@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://lixuanang.com</id>
+    <title>李轩昂的个人网站</title>
+    <updated>2023-07-31T06:51:01.694Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://lixuanang.com"/>
+    <link rel="self" href="https://lixuanang.com/atom.xml"/>
+    <logo>https://lixuanang.com/images/avatar.png</logo>
+    <icon>https://lixuanang.com/favicon.ico</icon>
+    <rights>All rights reserved 2023, 李轩昂的个人网站</rights>
+    <entry>
+        <title type="html"><![CDATA[1000   Hello, World!]]></title>
+        <id>https://lixuanang.com/post/1000-hello-world/</id>
+        <link href="https://lixuanang.com/post/1000-hello-world/">
+        </link>
+        <updated>2023-07-10T08:09:19.000Z</updated>
+        <content type="html"><![CDATA[<p>#include<iostream><br>
+using namespace std;<br>
+int main(){<br>
+cout&lt;&lt;&quot;Hello, World!&quot;;<br>
+return 0;<br>
+}</p>
+]]></content>
+    </entry>
+</feed>
